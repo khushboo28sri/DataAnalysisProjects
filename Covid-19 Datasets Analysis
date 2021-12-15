@@ -1,0 +1,14 @@
+Hi All,
+
+This is my first Power BI Dashboard on Covid-19 Datasets Analysis which mainly represent the total no. of cases, deaths and new cases.
+Top contributor countries for the highest number of cases and median age of people suffering from covid-19.
+
+Creating a dashboard followed steps as below:
+Step 1: Extract data
+Step 2: Transform data
+Step 3: Load data
+Step 3: Data Modeling
+Step 4: Report Building
+Step 5: Publish Report
+Step 6: Dashboard Creation
+Step 7: Share & Collaborate
